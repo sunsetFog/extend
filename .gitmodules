@@ -1,3 +1,6 @@
 [submodule "java_tools"]
 	path = java_tools
 	url = https://github.com/sunsetFog/java_tools.git
+[submodule "yahoo"]
+	path = yahoo
+	url = https://github.com/sunsetFog/java_tools.git
